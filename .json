@@ -1,0 +1,86 @@
+[
+  {
+    "ssid": "<hidden:3a:de:4b:bd:96:a3>",
+    "rssi": -73,
+    "channel": 36,
+    "authentication_type": "WPA2",
+    "encryption_type": "AES"
+  },
+  {
+    "ssid": "LuSe_M4",
+    "rssi": -67,
+    "channel": 9,
+    "authentication_type": "WPA2",
+    "encryption_type": "AES"
+  },
+  {
+    "ssid": "Malerovi",
+    "rssi": -67,
+    "channel": 40,
+    "authentication_type": "WPA3",
+    "encryption_type": "SAE"
+  },
+  {
+    "ssid": "LuSe_M4",
+    "rssi": -82,
+    "channel": 36,
+    "authentication_type": "WPA2",
+    "encryption_type": "AES"
+  },
+  {
+    "ssid": "SOLARMAXX.cz",
+    "rssi": -48,
+    "channel": 36,
+    "authentication_type": "WPA2",
+    "encryption_type": "AES"
+  },
+  {
+    "ssid": "LuSe_M4",
+    "rssi": -48,
+    "channel": 36,
+    "authentication_type": "WPA2",
+    "encryption_type": "AES"
+  },
+  {
+    "ssid": "<hidden:3a:de:4b:bd:68:87>",
+    "rssi": -48,
+    "channel": 36,
+    "authentication_type": "WPA2",
+    "encryption_type": "AES"
+  },
+  {
+    "ssid": "Malerovi",
+    "rssi": -57,
+    "channel": 3,
+    "authentication_type": "WPA3",
+    "encryption_type": "SAE"
+  },
+  {
+    "ssid": "LuSe_M4",
+    "rssi": -73,
+    "channel": 36,
+    "authentication_type": "WPA2",
+    "encryption_type": "AES"
+  },
+  {
+    "ssid": "SOLARMAXX.cz",
+    "rssi": -73,
+    "channel": 36,
+    "authentication_type": "WPA2",
+    "encryption_type": "AES"
+  },
+  {
+    "ssid": "SOLARMAXX.cz",
+    "rssi": -76,
+    "channel": 9,
+    "authentication_type": "WPA2",
+    "encryption_type": "AES"
+  },
+  {
+    "ssid": "LuSe_M4",
+    "rssi": -49,
+    "channel": 9,
+    "authentication_type": "WPA2",
+    "encryption_type": "AES"
+  }
+]
